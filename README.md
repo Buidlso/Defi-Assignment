@@ -1,4 +1,4 @@
-# Frontend Assignment: DeFi DApp Development
+# Defi Assignment: DeFi DApp Development
 
 ## Objective:
 Develop a DeFi application that provides robust features for wallet connectivity, token swapping, and real-time visualization of cryptocurrency prices.
